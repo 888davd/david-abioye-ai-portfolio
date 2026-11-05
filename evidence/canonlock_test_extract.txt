@@ -1,0 +1,21 @@
+CanonLock — Floot authenticated runner output
+Read on 2026-11-05
+
+11 spec file(s) passed, 0 failed
+
+PASS helpers/themeMode.spec.tsx
+PASS helpers/canonCore.spec.tsx
+PASS helpers/rescueCore.spec.tsx
+PASS helpers/continuityBenchmark.spec.tsx
+PASS helpers/passwordRecovery.spec.tsx
+PASS helpers/canonAdversarial.spec.tsx
+PASS helpers/canonCommitSafety.spec.tsx
+PASS helpers/timelineIsolation.spec.tsx
+PASS helpers/coverageSafety.spec.tsx
+PASS helpers/factTime.spec.tsx
+PASS helpers/mixedArtifactSafety.spec.tsx
+
+2 hook spec file(s) excluded by default.
+Separate authenticated typecheck output: typecheck: clean
+
+Scope: Development environment; this is not a production security or semantic-accuracy certification.

@@ -1,0 +1,22 @@
+{
+  "source": "Saved private GitHub research evidence/accounting-reconciliation.json",
+  "accessed_on": "2026-11-05",
+  "bars_checked_per_strategy": 3506,
+  "reconciliations_passed": 8,
+  "reconciliations_total": 8,
+  "strategies_and_simulated_fills": {
+    "buy_hold": 2,
+    "cash": 0,
+    "hybrid": 46,
+    "mean_reversion": 196,
+    "ml": 50,
+    "momentum": 572,
+    "sma_baseline": 368,
+    "trend": 464
+  },
+  "notes": [
+    "The saved results check internal cash, units, fees and equity accounting only.",
+    "They are not evidence of profitable performance or external liquidity/execution verification.",
+    "The project does not have a validated live-order adapter."
+  ]
+}

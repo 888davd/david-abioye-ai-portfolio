@@ -1,0 +1,21 @@
+{
+  "source": "Connected private Google Sheets CRM - RepairRelay Market Validation Tracker",
+  "accessed_on": "2026-11-05",
+  "crm_tabs": 8,
+  "prospect_columns": 30,
+  "prospect_records": 507,
+  "records_marked_unique": 505,
+  "records_marked_duplicate": 2,
+  "recorded_human_replies": 2,
+  "recorded_positive_replies": 1,
+  "demos_booked": 0,
+  "pilots_confirmed": 0,
+  "current_code_test_spec_files_passed": 2,
+  "current_code_test_spec_files_failed": 0,
+  "current_typecheck": "clean",
+  "notes": [
+    "This summary is anonymous; prospect names, email addresses and contact details are omitted.",
+    "CRM size is not equivalent to verified contact quality or commercial validation.",
+    "Two hook spec files were excluded from the default test run."
+  ]
+}
